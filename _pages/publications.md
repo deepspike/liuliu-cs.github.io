@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Building Energy-Efficient Multi-Level Cell STT-RAM Caches with Data Compression [pdf](http://liuliu-cs.github.io/files/ASP-DAC-17.pdf)
+
+Building Energy-Efficient Multi-Level Cell STT-RAM Caches with Data Compression ([pdf](http://liuliu-cs.github.io/files/ASP-DAC-17.pdf))
+
 **Liu Liu**, Ping Chi, Shuangchen Li, Yuanqing Cheng, Yuan Xie
+
 Published in *the 22nd Asia and South Pacific Design Automation Conference (ASP-DAC)*
 
 {% if author.googlescholar %}
