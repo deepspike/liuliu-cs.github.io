@@ -10,7 +10,7 @@ author_profile: true
 in *the 22nd Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan. 2017
 
 * [NVSim-CAM: A Circuit-Level Simulator for Emerging Nonvolatile Memory based Content-Addressable Memory](http://liuliu-cs.github.io/files/ICCAD-17.pdf) <br />
-Shuangchen Li, **Liu Liu**, Peng Gu, Cong Xu, and Yuan Xie. <br />
+Shuangchen Li, **Liu Liu**, Peng Gu, Cong Xu, and Yuan Xie <br />
 in *the 35rd International Comference on Computer-Aided Design (ICCAD)*, Nov. 2016
 
 * [Leveraging 3D Technologies for Hardware Security: Opportunities and Challenges](http://liuliu-cs.github.io/files/GLSVLSI-16.pdf) <br />
