@@ -1,7 +1,7 @@
 ---
 title: "Leveraging 3D Technologies for Hardware Security: Opportunities and Challenges"
 collection: publications
-permalink: /publication/2016-GLSVLSI
+permalink: /publications/2016-GLSVLSI
 excerpt: 'This paper is about 3D security.'
 date: 2016-05
 venue: 'the 26th Great Lakes Symposium on VLSI (GLSVLSI)'
