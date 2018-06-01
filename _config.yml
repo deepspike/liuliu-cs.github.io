@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu Liu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Liu Liu"
 description              : &description "Ph.D. student from the department of Computer Science at UCSB"
