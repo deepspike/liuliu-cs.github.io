@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2015-10-01-paper-testing
+permalink: /publications/2015-10-01-paper-testing
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Testing journal'
