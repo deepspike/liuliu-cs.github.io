@@ -11,7 +11,9 @@ Liu Liu is currently a Ph.D. student at [Scalable Energy-Efficient Architecture 
 
 Research Summary
 ======
-My research interests include hardware specialization for deep learning, heterogeneous computer architecture, ermerging non-volatile memory architecture design. Recent research projects:
+My research interests include hardware specialization for deep learning, heterogeneous computer architecture, ermerging non-volatile memory architecture design. 
+
+Recent research projects:
 
 Hardware Acceleration for Sparse Neural Networks
 ------
