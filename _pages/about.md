@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Bio Testing"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
